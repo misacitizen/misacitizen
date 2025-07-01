@@ -51,11 +51,12 @@
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Meu Linkedin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misael-santos-348236353/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/misael-santos-348236353/)
+
 
 </div>
 
