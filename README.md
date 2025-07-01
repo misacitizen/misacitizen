@@ -14,7 +14,7 @@
 🎓 **Formação e Certificações**  
 
 - 🎓 Análise e Desenvolvimento de Sistemas — *Cruzeiro do Sul*  
-- 📚 Cursos na **Alura**, com projetos práticos: [Meus repositórios Alura](https://github.com/MisaelSantos?tab=repositories&q=alura)  
+- 📚 Cursos na **Alura**, com projetos práticos: [Meus repositórios Alura](https://github.com/misacitizen?tab=repositories)  
 - ☕ Atualmente cursando **Java** no *Senai*  
 - 🏆 **AWS Foundations Certified** (*Senai*)  
 - 🧩 Outras certificações voltadas a DevOps e Cloud
