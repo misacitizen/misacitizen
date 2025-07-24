@@ -13,7 +13,7 @@
 
 🎓 **Formação e Certificações**  
 
-- 🎓 Análise e Desenvolvimento de Sistemas — *Cruzeiro do Sul*  
+- 🎓 Gestão da Tecnologia da Informação — *Cruzeiro do Sul*  
 - 📚 Cursos na **Alura**, com projetos práticos: [Meus repositórios Alura](https://github.com/misacitizen?tab=repositories)  
 - ☕ Atualmente cursando **Java** no *Senai*  
 - 🏆 **AWS Foundations Certified** (*Senai*)  
