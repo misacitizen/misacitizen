@@ -15,7 +15,7 @@
 
 - 🎓 Gestão da Tecnologia da Informação — *Cruzeiro do Sul*  
 - 📚 Cursos na **Alura**, com projetos práticos: [Meus repositórios Alura](https://github.com/misacitizen?tab=repositories)  
-- ☕ Atualmente cursando **Java** no *Senai*  
+- ☕ **Java - Foundations** no *Senai*  
 - 🏆 **AWS Foundations Certified** (*Senai*)  
 - 🧩 Outras certificações voltadas a DevOps e Cloud
 
